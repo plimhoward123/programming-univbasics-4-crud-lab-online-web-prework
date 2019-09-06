@@ -45,5 +45,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   nw_array = array[index_number] = element
-  return array
+  return nw_array
 end
