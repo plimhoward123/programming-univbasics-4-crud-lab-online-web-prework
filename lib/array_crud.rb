@@ -1,5 +1,5 @@
 def create_an_empty_array
-  return emptya[]
+  p emptya[]
 end
 
 def create_an_array
