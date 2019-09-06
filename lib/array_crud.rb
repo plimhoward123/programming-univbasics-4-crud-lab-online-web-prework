@@ -25,7 +25,7 @@ end
 
 def remove_element_from_start_of_array(array)
   remove1 = array.unshift()
-  return = remove1
+  return  remove1
 end
 
 def retrieve_element_from_index(array, index_number)
