@@ -19,12 +19,13 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  array.pop()
-  return array
+  updated_a = array.pop()
+  return updated_a
 end
 
 def remove_element_from_start_of_array(array)
-
+  remove1 = array.unshift()
+  return = remove1
 end
 
 def retrieve_element_from_index(array, index_number)
